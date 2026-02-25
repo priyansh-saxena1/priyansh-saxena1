@@ -1,16 +1,15 @@
-
 <div align="center">
   
 #  Priyansh Saxena
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=500&lines=Machine+Learning+Data+Scientist;Student+at+IIITM+Gwalior;Building+with+AI+and+Cloud)](https://github.com/Transcendental-Programmer)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=500&lines=Machine+Learning+Data+Scientist;Student+at+IIITM+Gwalior;Building+with+AI+and+Cloud)](https://github.com/priyansh-saxena1)
 
 <a href="https://www.linkedin.com/in/priyansh-saxena-25b82625b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/Transcendental-Programmer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/priyansh-saxena1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="mailto:priyena.career@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Transcendental-Programmer&color=blueviolet&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/Transcendental-Programmer?style=for-the-badge&color=6A5ACD)
+![Profile Views](https://komarev.com/ghpvc/?username=priyansh-saxena1&color=blueviolet&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/priyansh-saxena1?style=for-the-badge&color=6A5ACD)
 
 </div>
 
@@ -32,25 +31,15 @@ class PriyanshSaxena:
 
 me = PriyanshSaxena()
 me.say_hi()
-
 ```
 
 
 ##  GitHub Stats
 
 <div align="center" style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Transcendental-Programmer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="max-width: 35%;" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Transcendental-Programmer&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" style="max-width: 45%;" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=priyansh-saxena1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="max-width: 35%;" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=priyansh-saxena1&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" style="max-width: 45%;" />
 </div>
-
-<!--
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Transcendental-Programmer&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-</div>
--->
-<!-- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Transcendental-Programmer&theme=tokyonight&column=7&margin-w=15&no-frame=true" alt="GitHub Trophies"/>
-</div> -->
 
 
 ## Technical Skills
@@ -132,7 +121,7 @@ me.say_hi()
     <th>Technologies</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/Transcendental-Programmer/LLM-Integrated-Excel-Plotter-App">LLM Integrated Excel Plotter</a></td>
+    <td><a href="https://github.com/priyansh-saxena1/LLM-Integrated-Excel-Plotter-App">LLM Integrated Excel Plotter</a></td>
     <td>Intelligent Excel data analyzer that uses natural language processing to generate visualizations and insights from tabular data</td>
     <td>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow"/>
@@ -140,35 +129,8 @@ me.say_hi()
       <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask"/>
     </td>
   </tr>
-  <!-- <tr>
-    <td><a href="https://github.com/Transcendental-Programmer/Healio-LLM-Integrated-chatbot">Healio Medical Assistant</a></td>
-    <td>AI-powered healthcare chatbot that provides medical information and preliminary diagnoses using advanced language models</td>
-    <td>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"/> 
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>
-    </td>
-  </tr> -->
-  <!-- <tr>
-    <td><a href="https://github.com/Transcendental-Programmer/Recipe-Adviser-App">Recipe Adviser App</a></td>
-    <td>Personalized recipe recommendation system that suggests meals based on available ingredients, dietary restrictions, and user preferences</td>
-    <td>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"/>
-      <img src="https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white" alt="Spacy"/>
-      <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django"/>
-    </td>
-  </tr> -->
-  <!-- <tr>
-    <td><a href="https://github.com/Transcendental-Programmer/face-recognition-attendance-app">Face Recognition Attendance</a></td>
-    <td>Automated attendance tracking system using facial recognition to identify and record student or employee presence</td>
-    <td>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas"/>
-      <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask"/>
-    </td>
-  </tr> -->
   <tr>
-    <td><a href="https://github.com/Transcendental-Programmer/Anomaly-detection-in-IoT-streams">Anomaly Detection in IoT</a></td>
+    <td><a href="https://github.com/priyansh-saxena1/Anomaly-detection-in-IoT-streams">Anomaly Detection in IoT</a></td>
     <td>Real-time anomaly detection system for IoT data streams using advanced statistical methods and machine learning algorithms</td>
     <td>
       <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apache-spark&logoColor=white" alt="PySpark"/>
@@ -177,7 +139,7 @@ me.say_hi()
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Transcendental-Programmer/SummarizeMe">SummarizeMe</a></td>
+    <td><a href="https://github.com/priyansh-saxena1/SummarizeMe">SummarizeMe</a></td>
     <td>Advanced text summarization tool that condenses long documents while preserving key information using transformer-based models</td>
     <td>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow"/>
@@ -186,7 +148,7 @@ me.say_hi()
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Transcendental-Programmer/Stock-Sentinal">Stock Sentinel</a></td>
+    <td><a href="https://github.com/priyansh-saxena1/Stock-Sentinal">Stock Sentinel</a></td>
     <td>Stock price prediction application that combines technical analysis with sentiment analysis from news and social media</td>
     <td>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow"/>
@@ -195,7 +157,7 @@ me.say_hi()
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Transcendental-Programmer/Neural_Network_from_scratch">Neural Network from Scratch</a></td>
+    <td><a href="https://github.com/priyansh-saxena1/Neural_Network_from_scratch">Neural Network from Scratch</a></td>
     <td>Implementation of neural networks from first principles, demonstrating deep understanding of backpropagation and optimization algorithms</td>
     <td>
       <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy"/>
@@ -205,28 +167,6 @@ me.say_hi()
   </tr>
 </table>
 
-
-<!-- <div align="center">
-  <a href="https://github.com/Transcendental-Programmer">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Transcendental-Programmer&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
-  </a>
-</div> -->
-
-<div align="center">
-  <h3>Connect with me on other platforms</h3>
-  <a href="https://www.kaggle.com/archcoder">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-  <a href="https://www.codechef.com/users/arch_coder">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-  </a>
-  <a href="https://leetcode.com/u/user8322v/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://medium.com/@priyansh_saxena">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-</div>
 
 ---
 
